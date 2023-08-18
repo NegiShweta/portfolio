@@ -8,7 +8,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(208, 238, 228);
+  background-color: #89c2d4;
 }
 
 html {
@@ -31,7 +31,9 @@ a,
 nav,
 .nav-links {
   display: flex;
-}
+  height: 15px;
+  background-color: #cccccc;
+ }
 
 nav {
   justify-content: space-around;
